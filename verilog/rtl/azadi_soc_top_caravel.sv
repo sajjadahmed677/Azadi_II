@@ -28,6 +28,8 @@ module azadi_soc_top_caravel (
       inout vccd2,	// User area 2 1.8v supply
       inout vssd1,	// User area 1 digital ground
       inout vssd2,	// User area 2 digital ground
+	inout VPWR,
+	inout VGND,
   `endif
 
     // Wishbone Slave ports (WB MI A)
