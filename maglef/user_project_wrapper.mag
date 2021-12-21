@@ -1,19 +1,11 @@
 magic
 tech sky130A
 magscale 1 2
-<<<<<<< HEAD
-timestamp 1640101887
+timestamp 1640112934
 << obsli1 >>
 rect 16865 2873 404080 365964
 << obsm1 >>
 rect 566 2740 580966 701004
-=======
-timestamp 1640019876
-<< obsli1 >>
-rect 16865 2873 404080 365964
-<< obsm1 >>
-rect 566 2796 580966 701004
->>>>>>> 931d98e1c1894db8467f2b2099012c09581bc7c4
 << metal2 >>
 rect 8086 703520 8198 704960
 rect 24278 703520 24390 704960
@@ -3870,13 +3862,8 @@ port 645 nsew signal input
 string LEFclass BLOCK
 string FIXED_BBOX 0 0 584000 704000
 string LEFview TRUE
-<<<<<<< HEAD
-string GDS_FILE /home/wajehulhasan/MPW4/Azadi_II/openlane/user_project_wrapper/runs/user_project_wrapper/results/magic/user_project_wrapper.gds
-string GDS_END 150720844
-=======
-string GDS_FILE /project/openlane/user_project_wrapper/runs/user_project_wrapper/results/magic/user_project_wrapper.gds
-string GDS_END 150728908
->>>>>>> 931d98e1c1894db8467f2b2099012c09581bc7c4
-string GDS_START 149023342
+string GDS_FILE /home/wajehulhasan/precheck/Azadi_II/openlane/user_project_wrapper/runs/user_project_wrapper/results/magic/user_project_wrapper.gds
+string GDS_END 1812570
+string GDS_START 115068
 << end >>
 
